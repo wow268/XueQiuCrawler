@@ -4,9 +4,11 @@
 
 ![image](https://github.com/user-attachments/assets/30504448-dcb6-4858-b8c3-0c7989755502)
 
-进入K线图后，使用RPA，原始位置为K线起始位置，每次向右偏移鼠标位置，切换日期信息显示，RPA自动截取图像后录入
+进入B框K线图后，使用RPA，原始位置为K线起始位置，每次向右偏移鼠标位置，切换日期信息显示，RPA自动截取图像后录入
 
 ![image](https://github.com/user-attachments/assets/4d9a962f-8b4e-4406-a177-ed6c4888f9c1)
+
+C框暂时不使用
 
 OCR识别录入的信息，归档，入数据库
 
