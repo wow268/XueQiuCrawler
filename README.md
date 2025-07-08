@@ -9,4 +9,11 @@
 ![image](https://github.com/user-attachments/assets/4d9a962f-8b4e-4406-a177-ed6c4888f9c1)
 
 OCR识别录入的信息，归档，入数据库
+
 模型训练程序后台待机，等待RPA传入训练指令和参数（数据，日期范围，预测条件），自动训练
+
+信息收集：评论区内容可以多条件联立，比如此处Tag可设置反转+增长（同义词自动匹配）作为一个有效判定成立条件，否则不收集
+
+![image](https://github.com/user-attachments/assets/4cd15591-1088-4b9a-be75-7783c59214ec)
+
+
